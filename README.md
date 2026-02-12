@@ -1,37 +1,47 @@
-# LoL-Data-Analysis
-League of Legends match data analysis: KDA, win rates, champion picks, and role-based insights using Python and Pandas.
+# League of Legends Match Data Analysis
 
-# LoL Data Analysis Project
+## Project Overview
+This project analyzes match data from **League of Legends** to explore patterns in champion picks, roles, KDA (Kills/Deaths/Assists), win rates, and other gameplay statistics. The goal is to practice **data collection, cleaning, and visualization** using Python (`pandas`, `seaborn`, `matplotlib`) and build a portfolio-ready project.
 
-## Overview
-This project analyzes League of Legends match data to explore trends in player performance, champion picks, win rates, and in-game statistics such as KDA and first blood. The goal is to practice data cleaning, visualization, and basic analysis skills using Python (Pandas, Seaborn, Matplotlib) and Excel.
+## Dataset
+The dataset contains manually collected match data including:
+- Match ID
+- Game duration
+- Patch version
+- Queue type (ranked, flex)
+- Team (blue/red)
+- Role (top, jungle, mid, ADC, support)
+- Champion played
+- Win/loss result
+- Kills, deaths, assists
+- CS (creep score) and CS per minute
+- Gold earned, damage dealt, vision score
+- First blood and subjective game review
 
-## Files
-- **notebooks/LoL_match_analysis.ipynb** - Jupyter Notebook with full code and visualizations.  
-- **scripts/LoL_match_analysis.py** - Python script exported from the notebook.  
-- **data/LoL_matches_cleaned.csv** - Cleaned dataset compiled manually from match histories.  
-- **images/** - Folder containing generated plots (KDA distribution, champion pick frequency, first blood win rate, etc.).  
-- **README.md** - GitHub-friendly description and overview.  
-- **LICENSE** - MIT open-source license.  
+**Current size:** ~211 rows  
+**Sources:** Data manually collected from the League of Legends client and Op.GG. In future work, data collection could be automated with the League of Legends API (requires a developer key).
 
-## Data Source
-- Currently, the dataset was manually collected from public match histories using the League of Legends client and [Op.GG](https://www.op.gg/).  
-- In future work, data could also be sourced programmatically from the League of Legends API (requires developer key).  
+## Files Included
+- `notebooks/LoL_match_analysis.ipynb` – Notebook with all code and visualizations
+- `scripts/LoL_match_analysis.py` – Python script version
+- `data/LoL_matches_cleaned.csv` – Cleaned dataset
+- `images/` – Graph exports (optional)
+- `LICENSE` – MIT License
+- `README.md` – This file
 
-## Purpose
-- Demonstrates data cleaning, aggregation, and visualization techniques.  
-- Shows basic insights like:  
-  - KDA distribution across matches  
-  - Win rates by role, team side, and first blood  
-  - Most-picked champions per role  
-- Serves as a portfolio example for aspiring data scientists, showing the ability to handle real game data and create visualizations.  
+## Key Visualizations
+Examples of insights you’ll find:
+- Win/loss rates by team side (blue vs red)
+- KDA distribution across players
+- First blood impact per role
+- Most-picked champions by role
 
-## Usage
-1. Clone the repository.  
-2. Open `notebooks/LoL_match_analysis.ipynb` in Jupyter or Google Colab.  
-3. Run the notebook cells to reproduce visualizations.  
-4. Alternatively, run `scripts/LoL_match_analysis.py` to execute the analysis via Python directly.  
-5. Use `data/LoL_matches_cleaned.csv` for any additional analysis or experimentation.  
+## How to Run
+1. Clone the repository  
+2. Install dependencies:
+   ```bash
+   pip install pandas seaborn matplotlib
+
 
 ## Contact
 For questions or collaboration, you can reach out at savana.s.jones@gmail.com
