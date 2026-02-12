@@ -1,0 +1,211 @@
+match_id,game_duration,patch_version,queue_type,team,role,champion,win_loss,kills,deaths,assists,cs,cs_per_min,gold_earned,damage,vision_score,first_blood,game_review
+5486945849,0:24:40,26.3,ranked,blue,top,Dr.Mundo,win,15,5,8,203,8.2,14609,28831,8,no,Late Bloomer
+5486945849,0:24:40,26.3,ranked,blue,jungle,Diana,win,12,2,11,151,6.1,12186,22058,27,no,Unstoppable
+5486945849,0:24:40,26.3,ranked,blue,mid,Vex,win,5,2,10,133,5.4,8460,18730,20,no,Late Bloomer
+5486945849,0:24:40,26.3,ranked,blue,adc,Jinx,win,10,1,7,228,9.2,13573,29852,12,no,Unstoppable
+5486945849,0:24:40,26.3,ranked,blue,support,Nami,win,0,2,25,14,0.6,7945,6698,29,no,Unstoppable
+5486945849,0:24:40,26.3,ranked,red,top,Vayne,loss,4,10,3,146,5.9,9493,29556,13,no,Downfall
+5486945849,0:24:40,26.3,ranked,red,jungle,Master Yi,loss,6,6,2,121,4.9,9871,18312,29,yes,Downfall
+5486945849,0:24:40,26.3,ranked,red,mid,Galio,loss,2,6,4,160,6.5,8590,19269,10,no,Struggle
+5486945849,0:24:40,26.3,ranked,red,adc,Kai'Sa,loss,0,9,1,181,7.3,8834,10328,12,no,Struggle
+5486945849,0:24:40,26.3,ranked,red,support,Nautilus,loss,0,11,5,32,1.3,6272,8556,57,no,Struggle
+5486958086,0:30:02,26.3,ranked,blue,top,Jayce,win,9,3,5,248,8.3,14440,32609,39,no,Average
+5486958086,0:30:02,26.3,ranked,blue,jungle,Amumu,win,9,4,7,176,5.9,13041,19068,26,yes,Victor
+5486958086,0:30:02,26.3,ranked,blue,mid,Dr.Mundo,win,6,12,8,207,6.9,12224,31448,13,no,Resilient
+5486958086,0:30:02,26.3,ranked,blue,adc,Sivir,win,6,3,10,283,9.4,16791,25044,20,no,Unstoppable
+5486958086,0:30:02,26.3,ranked,blue,support,Nami,win,2,5,15,34,1.1,9095,5945,61,no,Resilient
+5486958086,0:30:02,26.3,ranked,red,top,Sett,loss,4,8,3,181,6,11170,17011,32,no,Struggle
+5486958086,0:30:02,26.3,ranked,red,jungle,Master Yi,loss,12,7,8,211,7,14923,42365,33,no,Unlucky
+5486958086,0:30:02,26.3,ranked,red,mid,Yasuo,loss,4,7,4,181,6,9861,21987,20,no,Struggle
+5486958086,0:30:02,26.3,ranked,red,adc,Brand,loss,4,6,4,243,8.1,12543,27828,19,no,Struggle
+5486958086,0:30:02,26.3,ranked,red,support,Leona,loss,3,4,14,25,0.8,8603,12478,43,no,Unlucky
+5487018428,0:28:44,26.3,ranked,blue,top,Riven,win,18,6,7,203,7.1,18377,63384,16,no,Unstoppable
+5487018428,0:28:44,26.3,ranked,blue,jungle,Amumu,win,0,9,17,129,4.5,9058,10139,13,no,Resilient
+5487018428,0:28:44,26.3,ranked,blue,mid,Aurelion Sol,win,5,9,10,184,6.4,12568,19244,33,no,Resilient
+5487018428,0:28:44,26.3,ranked,blue,adc,Jinx,win,7,6,7,233,8.1,14968,25286,14,yes,Rollercoaster
+5487018428,0:28:44,26.3,ranked,blue,support,Sona,win,0,6,12,18,0.6,7659,4686,58,no,Resilient
+5487018428,0:28:44,26.3,ranked,red,top,Dr.Mundo,loss,5,9,8,179,6.2,10746,19645,17,no,Struggle
+5487018428,0:28:44,26.3,ranked,red,jungle,Aatrox,loss,13,5,8,207,7.2,13062,26321,50,no,Unlucky
+5487018428,0:28:44,26.3,ranked,red,mid,Orianna,loss,7,5,11,204,7.1,11122,25460,17,no,Unlucky
+5487018428,0:28:44,26.3,ranked,red,adc,Kai'Sa,loss,8,5,6,177,6.2,11754,16057,26,no,Unlucky
+5487018428,0:28:44,26.3,ranked,red,support,Seraphine,loss,3,6,19,42,1.5,9545,15655,106,no,Unlucky
+5487427286,0:23:31,26.3,ranked flex,red,top,Dr.Mundo,win,17,4,9,205,8.7,15744,38227,9,no,Unstoppable
+5487427286,0:23:31,26.3,ranked flex,red,jungle,Teemo,win,5,3,10,132,5.6,9515,15451,24,no,Victor
+5487427286,0:23:31,26.3,ranked flex,red,mid,Ahri,win,8,3,9,115,4.9,9098,15610,10,no,Resilient
+5487427286,0:23:31,26.3,ranked flex,red,adc,Miss Fortune,win,7,3,8,150,6.4,11300,15502,8,no,Late Bloomer
+5487427286,0:23:31,26.3,ranked flex,red,support,Shen,win,1,5,12,24,1,6599,3454,24,no,Resilient
+5487427286,0:23:31,26.3,ranked flex,blue,top,Yone,loss,3,11,3,97,4.1,6982,18958,16,yes,Struggle
+5487427286,0:23:31,26.3,ranked flex,blue,jungle,Vayne,loss,0,9,2,130,5.5,6871,10492,11,no,Struggle
+5487427286,0:23:31,26.3,ranked flex,blue,mid,Mel,loss,4,7,1,106,4.5,7527,21803,7,no,Average
+5487427286,0:23:31,26.3,ranked flex,blue,adc,Caitlin,loss,8,6,5,192,8.2,13250,27430,19,no,Unlucky
+5487427286,0:23:31,26.3,ranked flex,blue,support,Thresh,loss,3,5,9,30,1.3,7221,14157,34,no,Unlucky
+5488100077,0:22:17,26.3,ranked,blue,top,Ornn,win,4,6,10,161,7.2,9675,18262,11,yes,Unstoppable
+5488100077,0:22:17,26.3,ranked,blue,jungle,Talon,win,15,3,6,162,7.3,12857,19484,17,no,Leader
+5488100077,0:22:17,26.3,ranked,blue,mid,Hwei,win,4,2,7,218,9.8,9802,15834,5,no,Victor
+5488100077,0:22:17,26.3,ranked,blue,adc,Ashe,win,9,0,8,179,8,12367,19610,13,no,Unstoppable
+5488100077,0:22:17,26.3,ranked,blue,support,Nami,win,5,4,15,15,0.7,7731,7598,40,no,Unstoppable
+5488100077,0:22:17,26.3,ranked,red,top,Irelia,loss,6,8,1,205,9.2,11787,19887,14,no,Struggle
+5488100077,0:22:17,26.3,ranked,red,jungle,Amumu,loss,2,7,7,133,6,8046,15980,9,no,Struggle
+5488100077,0:22:17,26.3,ranked,red,mid,Ryze,loss,2,8,1,177,7.9,8060,8396,6,no,Struggle
+5488100077,0:22:17,26.3,ranked,red,adc,Brand,loss,3,8,1,122,5.5,7232,11293,14,no,Struggle
+5488100077,0:22:17,26.3,ranked,red,support,Karma,loss,2,6,4,37,1.7,6272,6719,32,no,Struggle
+5483551531,0:18:33,26.3,ranked,blue,top,Jax,win,6,2,0,139,7.5,8207,12264,24,no,Average
+5483551531,0:18:33,26.3,ranked,blue,jungle,Kha'Zix,win,7,1,1,159,8.6,9371,8876,25,no,Victor
+5483551531,0:18:33,26.3,ranked,blue,mid,Ryze,win,1,2,3,181,9.8,7723,10020,14,no,Resilient
+5483551531,0:18:33,26.3,ranked,blue,adc,Corki,win,3,0,2,182,9.8,8805,9689,17,no,Victor
+5483551531,0:18:33,26.3,ranked,blue,support,Alistar,win,1,0,9,15,0.8,5444,5750,36,no,Unstoppable
+5483551531,0:18:33,26.3,ranked,red,top,Teemo,loss,2,6,0,123,6.6,5544,11433,13,yes,Downfall
+5483551531,0:18:33,26.3,ranked,red,jungle,Xin Zhao,loss,2,3,1,128,6.9,6466,5207,15,no,Downfall
+5483551531,0:18:33,26.3,ranked,red,mid,Hwei,loss,0,2,3,162,8.7,6290,12189,4,no,Rollercoaster
+5483551531,0:18:33,26.3,ranked,red,adc,Twitch,loss,0,4,1,125,6.7,5961,6782,12,no,Struggle
+5483551531,0:18:33,26.3,ranked,red,support,Sona,loss,1,3,1,23,1.2,5075,8666,35,no,Struggle
+5488249393,0:30:00,26.3,ranked,blue,top,Zaahen,win,9,5,3,213,7.1,13015,24334,20,yes,Rollercoaster
+5488249393,0:30:00,26.3,ranked,blue,jungle,Lillia,win,9,4,6,223,7.4,14033,32942,21,no,Average
+5488249393,0:30:00,26.3,ranked,blue,mid,Yasuo,win,3,4,8,275,9.2,12436,13957,34,no,Rollercoaster
+5488249393,0:30:00,26.3,ranked,blue,adc,Kalista,win,12,7,7,204,6.8,15488,35754,15,no,Victor
+5488249393,0:30:00,26.3,ranked,blue,support,Nami,win,0,3,22,24,0.8,9268,10179,59,no,Victor
+5488249393,0:30:00,26.3,ranked,red,top,Ornn,loss,4,6,4,220,7.3,10984,23171,15,no,Struggle
+5488249393,0:30:00,26.3,ranked,red,jungle,Vi,loss,9,7,4,165,5.5,12874,20358,19,no,Unlucky
+5488249393,0:30:00,26.3,ranked,red,mid,Malzahar,loss,5,4,5,206,6.9,11697,31033,12,no,Unyielding
+5488249393,0:30:00,26.3,ranked,red,adc,Zeri,loss,4,11,5,235,7.8,13944,24791,15,no,Unyielding
+5488249393,0:30:00,26.3,ranked,red,support,Karma,loss,1,6,9,37,1.2,8153,11481,81,no,Unyielding
+5487465775,0:39:46,26.3,ranked flex,blue,top,Viego,loss,6,12,4,233,5.9,13642,27009,36,no,Struggle
+5487465775,0:39:46,26.3,ranked flex,blue,jungle,Qiyana,loss,16,8,14,253,6.4,21923,48656,41,no,Unlucky
+5487465775,0:39:46,26.3,ranked flex,blue,mid,Katarina,loss,10,8,6,219,5.5,14665,30256,30,no,Struggle
+5487465775,0:39:46,26.3,ranked flex,blue,adc,Kai'Sa,loss,11,7,14,321,8.1,20369,51982,28,no,Unlucky
+5487465775,0:39:46,26.3,ranked flex,blue,support,Rell,loss,0,11,22,39,1,10202,10502,122,no,Rollercoaster
+5487465775,0:39:46,26.3,ranked flex,red,top,Tahm Kench,win,11,6,13,207,5.2,16323,56405,42,no,Unstoppable
+5487465775,0:39:46,26.3,ranked flex,red,jungle,Kayn,win,11,7,13,229,5.8,16904,24383,48,no,Resilient
+5487465775,0:39:46,26.3,ranked flex,red,mid,Fizz,win,11,8,10,307,7.7,18274,34867,24,no,Average
+5487465775,0:39:46,26.3,ranked flex,red,adc,Jhin,win,12,11,12,294,7.4,19120,27018,24,yes,Average
+5487465775,0:39:46,26.3,ranked flex,red,support,Vel'Koz,win,1,11,19,39,1,11434,27826,111,no,Struggle
+5489501149,0:32:53,26.3,ranked flex,blue ,top,Kennen,loss,6,16,5,175,5.3,12131,17682,29,no,Struggle
+5489501149,0:32:53,26.3,ranked flex,blue,jungle,Nasus,loss,8,4,5,211,6.4,13861,21744,37,no,Unlucky
+5489501149,0:32:53,26.3,ranked flex,blue,mid,Karma,loss,4,10,10,156,4.7,10152,22515,27,no,Unyielding
+5489501149,0:32:53,26.3,ranked flex,blue,adc,Aphelios,loss,11,9,9,214,6.5,18571,26280,9,no,Innocent
+5489501149,0:32:53,26.3,ranked flex,blue,support,Seraphine,loss,9,12,12,41,1.2,13067,26365,101,yes,Average
+5489501149,0:32:53,26.3,ranked flex,red,top,Briar,win,13,11,10,170,5.2,15508,37813,27,no,Leader
+5489501149,0:32:53,26.3,ranked flex,red,jungle,Mordekaiser,win,2,2,6,154,4.7,10641,5739,31,no,Resilient
+5489501149,0:32:53,26.3,ranked flex,red,mid,Jhin,win,21,8,12,314,9.5,22030,68370,20,no,Unstoppable
+5489501149,0:32:53,26.3,ranked flex,red,adc,Miss Fortune,win,9,12,7,243,7.4,15930,20114,19,no,Resilient
+5489501149,0:32:53,26.3,ranked flex,red,support,Neeko,win,9,6,19,56,1.7,13970,31857,85,no,Unstoppable
+5489693623,0:23:55,26.3,ranked,blue,top,Mordekaiser,win,10,4,3,196,8.2,12628,23347,18,yes,Leader
+5489693623,0:23:55,26.3,ranked,blue,jungle,Shyvanna,win,3,0,6,205,8.6,10667,12830,27,no,Average
+5489693623,0:23:55,26.3,ranked,blue,mid,Morgana,win,5,4,9,169,7.1,10227,25560,13,no,Resilient
+5489693623,0:23:55,26.3,ranked,blue,adc,Caitlin,win,6,2,6,188,7.9,10658,19382,22,no,Victor
+5489693623,0:23:55,26.3,ranked,blue,support,Seraphine,win,5,6,11,18,0.8,8156,16514,77,no,Victor
+5489693623,0:23:55,26.3,ranked,red,top,Renekton,loss,3,6,1,161,6.7,7829,11474,17,no,Struggle
+5489693623,0:23:55,26.3,ranked,red,jungle,Volibear,loss,3,6,7,115,4.8,7977,11145,29,no,Downfall
+5489693623,0:23:55,26.3,ranked,red,mid,Xerath,loss,5,3,4,170,7.1,9729,25815,11,no,Unlucky
+5489693623,0:23:55,26.3,ranked,red,adc,Jinx,loss,5,4,5,150,6.3,9568,13880,14,no,Struggle
+5489693623,0:23:55,26.3,ranked,red,support,Tahm Kench,loss,0,10,8,27,1.1,6143,9544,29,no,Struggle
+5489723207,0:27:08,26.3,ranked,red,top,Varus,loss,4,8,3,196,7.2,11746,26403,20,no,Unyielding
+5489723207,0:27:08,26.3,ranked,red,jungle,Volibear,loss,1,6,5,155,5.7,8450,10849,21,no,Struggle
+5489723207,0:27:08,26.3,ranked,red,mid,Katarina,loss,5,6,2,146,5.4,9187,15391,28,no,Struggle
+5489723207,0:27:08,26.3,ranked,red,adc,Ezreal,loss,3,7,2,212,7.8,10564,19029,17,no,Struggle
+5489723207,0:27:08,26.3,ranked,red,support,Lulu,loss,0,6,7,49,1.8,6661,2553,71,no,Struggle
+5489723207,0:27:08,26.3,ranked,blue,top,Zaahen,win,9,3,3,217,8,13097,23137,17,yes,Victor
+5489723207,0:27:08,26.3,ranked,blue,jungle,Ivern,win,3,1,15,176,6.5,11085,4291,35,no,Leader
+5489723207,0:27:08,26.3,ranked,blue,mid,Fizz,win,9,4,11,168,6.2,11402,22744,26,no,Victor
+5489723207,0:27:08,26.3,ranked,blue,adc,Caitlin,win,12,2,10,231,8.5,16194,38709,21,no,Unstoppable
+5489723207,0:27:08,26.3,ranked,blue,support,Soraka,win,0,3,20,24,0.9,7810,2926,94,no,Leader
+5489665520,0:17:39,26.3,ranked flex,red,top,Dr.Mundo,win,6,5,0,151,8.6,9066,16723,17,no,Average
+5489665520,0:17:39,26.3,ranked flex,red,jungle,Briar,win,2,2,1,133,7.5,7216,4181,15,no,Resilient
+5489665520,0:17:39,26.3,ranked flex,red,mid,Malzahar,win,2,3,4,147,8.3,7207,9650,13,no,Resilient
+5489665520,0:17:39,26.3,ranked flex,red,adc,Twitch,win,5,3,0,108,6.1,6959,12478,12,no,Devoted
+5489665520,0:17:39,26.3,ranked flex,red,support,Nami,win,0,0,5,25,1.4,5044,3081,35,no,Average
+5489665520,0:17:39,26.3,ranked flex,blue,top,Jax,loss,4,5,0,63,3.6,5377,14294,9,yes,Downfall
+5489665520,0:17:39,26.3,ranked flex,blue,jungle,Sejuani,loss,2,3,4,106,6,6158,8061,13,no,Unlucky
+5489665520,0:17:39,26.3,ranked flex,blue,mid,Diana,loss,7,3,2,153,8.7,8670,15742,13,no,Innocent
+5489665520,0:17:39,26.3,ranked flex,blue,adc,Sivir,loss,0,3,3,101,5.7,5477,5802,5,no,Struggle
+5489665520,0:17:39,26.3,ranked flex,blue,support,Yuumi,loss,0,1,5,27,1.5,4329,3017,22,no,Unyielding
+5489694059,0:31:12,26.3,ranked flex,red,top,Dr.Mundo,loss,9,10,0,253,8.1,15907,47509,20,no,Unyielding
+5489694059,0:31:12,26.3,ranked flex,red,jungle,Sejuani,loss,0,9,5,147,4.7,8997,9851,30,no,Struggle
+5489694059,0:31:12,26.3,ranked flex,red,mid,Lux,loss,3,7,4,225,7.2,10727,10952,23,no,Struggle
+5489694059,0:31:12,26.3,ranked flex,red,adc,Varus,loss,6,6,2,197,6.3,12940,20337,25,no,Average
+5489694059,0:31:12,26.3,ranked flex,red,support,Zilean,loss,1,7,4,36,1.2,8113,5207,70,no,Struggle
+5489694059,0:31:12,26.3,ranked flex,blue,top,Tryndamere,win,6,5,3,238,7.6,14023,39510,28,no,Average
+5489694059,0:31:12,26.3,ranked flex,blue,jungle,Master Yi,win,10,6,5,274,8.8,15855,36662,31,yes,Leader
+5489694059,0:31:12,26.3,ranked flex,blue,mid,Galio,win,9,3,9,168,5.4,12107,30119,24,no,Unstoppable
+5489694059,0:31:12,26.3,ranked flex,blue,adc,Tristana,win,10,5,6,216,6.9,15636,38741,13,no,Leader
+5489694059,0:31:12,26.3,ranked flex,blue,support,Bard,win,4,0,22,36,1.2,11127,22642,81,no,Unstoppable
+5489743151,0:30:04,26.3,ranked flex,red,top,Nasus,loss,7,11,2,240,8,14578,19969,19,no,Struggle
+5489743151,0:30:04,26.3,ranked flex,red,jungle,Amumu,loss,4,11,10,170,5.7,11150,20483,25,no,Struggle
+5489743151,0:30:04,26.3,ranked flex,red,mid,Cho'Gath,loss,10,8,5,168,5.6,11532,24107,12,no,Downfall
+5489743151,0:30:04,26.3,ranked flex,red,adc,Mel,loss,12,11,5,118,3.9,12187,28969,25,yes,Unlucky
+5489743151,0:30:04,26.3,ranked flex,red,support,Rell,loss,1,11,13,22,0.7,8082,9053,85,no,Downfall
+5489743151,0:30:04,26.3,ranked flex,blue,top,Urgot,win,12,5,11,198,6.6,15058,39258,25,no,Late Bloomer
+5489743151,0:30:04,26.3,ranked flex,blue,jungle,Warwick,win,10,10,14,197,6.6,15271,22592,20,no,Victor
+5489743151,0:30:04,26.3,ranked flex,blue,mid,Jhin,win,16,7,19,133,4.4,14928,35446,17,no,Unstoppable
+5489743151,0:30:04,26.3,ranked flex,blue,adc,Ziggs,win,13,5,11,249,8.3,16407,39803,12,no,Late Bloomer
+5489743151,0:30:04,26.3,ranked flex,blue,support,Seraphine,win,1,7,22,52,1.7,9856,13786,66,no,Resilient
+5489826706,0:35:53,26.3,ranked flex,red,top,Quinn,win,10,15,12,207,5.8,14934,46518,25,no,Resilient
+5489826706,0:35:53,26.3,ranked flex,red,jungle,Kindred,win,16,6,6,222,6.2,18914,39517,29,yes,Leader
+5489826706,0:35:53,26.3,ranked flex,red,mid,Galio,win,6,4,17,181,5,13346,35385,18,no,Victor
+5489826706,0:35:53,26.3,ranked flex,red,adc,Sion,win,11,4,11,279,7.8,20693,34026,23,no,Unstoppable
+5489826706,0:35:53,26.3,ranked flex,red,support,Tahm Kench,win,5,9,12,46,1.3,11945,27250,98,no,Devoted
+5489826706,0:35:53,26.3,ranked flex,blue,top,Darius,loss,15,6,12,285,7.9,19755,57839,19,no,Innocent
+5489826706,0:35:53,26.3,ranked flex,blue,jungle,Amumu,loss,7,10,12,171,4.8,13037,29467,22,no,Unyielding
+5489826706,0:35:53,26.3,ranked flex,blue,mid,Annie,loss,4,12,5,171,4.8,11228,15471,12,no,Struggle
+5489826706,0:35:53,26.3,ranked flex,blue,adc,Sivir,loss,9,12,8,202,5.6,14945,35820,14,no,Unyielding
+5489826706,0:35:53,26.3,ranked flex,blue,support,Thresh,loss,3,8,21,42,1.2,10517,23914,31,no,Slow Starter
+5489786150,0:29:22,26.3,ranked flex,red,top,Sion,loss,0,9,2,172,5.9,8209,17117,21,no,Struggle
+5489786150,0:29:22,26.3,ranked flex,red,jungle,Shaco,loss,5,8,6,141,4.8,10446,14502,30,no,Downfall
+5489786150,0:29:22,26.3,ranked flex,red,mid,Malzahar,loss,8,10,1,264,9,14216,32505,18,no,Unyielding
+5489786150,0:29:22,26.3,ranked flex,red,adc,Cho'Gath,loss,8,9,5,128,4.4,11878,16751,13,no,Struggle
+5489786150,0:29:22,26.3,ranked flex,red,support,Seraphine,loss,2,10,13,61,2.1,9301,21918,72,no,Unlucky
+5489786150,0:29:22,26.3,ranked flex,blue,top,Tahm Kench,win,12,2,6,248,8.4,14621,44270,26,no,Leader
+5489786150,0:29:22,26.3,ranked flex,blue,jungle,Udyr,win,9,5,9,230,7.8,15722,24360,20,no,Late Bloomer
+5489786150,0:29:22,26.3,ranked flex,blue,mid,Hwei,win,7,6,9,185,6.3,12138,27488,25,no,Resilient
+5489786150,0:29:22,26.3,ranked flex,blue,adc,Jhin,win,10,7,5,182,6.2,14003,27757,23,yes,Victor
+5489786150,0:29:22,26.3,ranked flex,blue,support,Xerath,win,8,3,16,54,1.8,12555,27995,68,no,Victor
+5490159966,0:38:11,26.3,ranked,blue,top,Gwen,win,10,10,5,267,7,17775,48677,49,no,Average
+5490159966,0:38:11,26.3,ranked,blue,jungle,Jarvan,win,8,3,15,267,7,17143,28842,61,no,Leader
+5490159966,0:38:11,26.3,ranked,blue,mid,Akali,win,11,9,8,262,6.9,15812,45961,27,no,Devoted
+5490159966,0:38:11,26.3,ranked,blue,adc,Caitlin,win,10,7,6,293,7.7,20524,51282,23,no,Late Bloomer
+5490159966,0:38:11,26.3,ranked,blue,support,Soraka,win,0,10,25,24,0.6,11437,5244,145,no,Resilient
+5490159966,0:38:11,26.3,ranked,red,top,Yorick,loss,2,11,10,301,7.9,16505,34645,42,no,Struggle
+5490159966,0:38:11,26.3,ranked,red,jungle,Master Yi,loss,20,6,5,203,5.3,19083,40320,25,yes,Unlucky
+5490159966,0:38:11,26.3,ranked,red,mid,Ekko,loss,11,11,9,216,5.7,15466,36153,39,no,Unyielding
+5490159966,0:38:11,26.3,ranked,red,adc,Smolder,loss,8,6,13,337,8.8,18514,43030,19,no,Unlucky
+5490159966,0:38:11,26.3,ranked,red,support,Milio,loss,0,5,25,29,0.8,10600,8870,101,no,Unyielding
+5490170554,0:26:46,26.3,ranked,red,top,Zaahen,win,4,2,6,197,7.4,11197,13542,28,no,Unstoppable
+5490170554,0:26:46,26.3,ranked,red,jungle,Briar,win,22,2,5,183,6.8,18216,33974,24,yes,Unstoppable
+5490170554,0:26:46,26.3,ranked,red,mid,Malzahar,win,3,2,10,226,8.4,12026,15216,25,no,Unstoppable
+5490170554,0:26:46,26.3,ranked,red,adc,Caitlin,win,2,1,15,242,9,13729,21506,30,no,Unstoppable
+5490170554,0:26:46,26.3,ranked,red,support,Soraka,win,2,4,21,27,1,8394,3619,78,no,Unstoppable
+5490170554,0:26:46,26.3,ranked,blue,top,Kog'Maw,loss,3,6,1,211,7.9,10475,10727,14,no,Average
+5490170554,0:26:46,26.3,ranked,blue,jungle,Gwen,loss,4,8,2,172,6.4,11170,23041,18,no,Struggle
+5490170554,0:26:46,26.3,ranked,blue,mid,Singed,loss,1,9,1,190,7.1,8219,15591,20,no,Struggle
+5490170554,0:26:46,26.3,ranked,blue,adc,Sivir,loss,5,4,1,286,10.7,11454,11549,10,no,Struggle
+5490170554,0:26:46,26.3,ranked,blue,support,Thresh,loss,0,6,4,36,1.3,6561,6361,77,no,Struggle
+5490181019,0:35:46,26.3,ranked,red,top,Kayle,loss,7,13,4,286,8,15946,29675,21,no,Unyielding
+5490181019,0:35:46,26.3,ranked,red,jungle,Rammus,loss,4,11,16,156,4.4,12529,20938,27,no,Unyielding
+5490181019,0:35:46,26.3,ranked,red,mid,Quinn,loss,14,14,8,149,4.2,16273,30758,27,no,Unyielding
+5490181019,0:35:46,26.3,ranked,red,adc,Smolder,loss,7,6,14,301,8.4,18249,36396,24,no,Average
+5490181019,0:35:46,26.3,ranked,red,support,Seraphine,loss,6,12,14,42,1.2,13196,22203,120,no,Unyielding
+5490181019,0:35:46,26.3,ranked,blue,top,Zaahen,win,7,5,9,251,7,15976,24752,41,yes,Devoted
+5490181019,0:35:46,26.3,ranked,blue,jungle,Viego,win,21,7,12,199,5.6,21003,41582,47,no,Unstoppable
+5490181019,0:35:46,26.3,ranked,blue,mid,Malzahar,win,9,9,9,268,7.5,16718,33939,31,no,Victor
+5490181019,0:35:46,26.3,ranked,blue,adc,Caitlin,win,10,9,10,229,6.4,17913,34913,41,no,Victor
+5490181019,0:35:46,26.3,ranked,blue,support,Mel,win,9,9,22,79,2.2,14808,31961,126,no,Leader
+5490195919,0:41:50,26.3,ranked,blue,top,Fizz,win,12,13,14,251,6,20116,58006,25,no,Devoted
+5490195919,0:41:50,26.3,ranked,blue,jungle,Kha'Zix,win,16,12,11,217,5.2,20642,48003,44,no,Resilient
+5490195919,0:41:50,26.3,ranked,blue,mid,Sion,win,8,9,15,318,7.6,20494,39855,37,no,Resilient
+5490195919,0:41:50,26.3,ranked,blue,adc,Kog'Maw,win,13,11,12,314,7.5,21563,53621,13,yes,Rollercoaster
+5490195919,0:41:50,26.3,ranked,blue,support,Soraka,win,2,14,25,39,0.9,12176,9072,185,no,Struggle
+5490195919,0:41:50,26.3,ranked,red,top,Yone,loss,9,15,13,228,5.5,16184,62525,35,no,Struggle
+5490195919,0:41:50,26.3,ranked,red,jungle,Nocturne,loss,22,6,13,276,6.6,22614,44368,58,no,Unlucky
+5490195919,0:41:50,26.3,ranked,red,mid,Diana,loss,7,13,13,204,4.9,15201,42431,35,no,Struggle
+5490195919,0:41:50,26.3,ranked,red,adc,Caitlin,loss,13,7,16,287,6.9,21789,60802,26,no,Unlucky
+5490195919,0:41:50,26.3,ranked,red,support,Lux,loss,8,10,30,95,2.3,16079,28190,96,no,Unlucky
+5490212605,0:31:36,26.3,ranked,red,top,Gangplank,win,5,8,9,215,6.8,15404,32566,21,no,Resilient
+5490212605,0:31:36,26.3,ranked,red,jungle,Diana,win,12,4,8,239,7.6,16425,23690,21,no,Unstoppable
+5490212605,0:31:36,26.3,ranked,red,mid,Malzahar,win,5,7,9,274,8.7,15155,26958,42,no,Resilient
+5490212605,0:31:36,26.3,ranked,red,adc,Caitlin,win,5,4,11,278,8.8,17494,34703,18,no,Unstoppable
+5490212605,0:31:36,26.3,ranked,red,support,Lux,win,4,4,15,39,1.2,10714,19295,110,no,Late Bloomer
+5490212605,0:31:36,26.3,ranked,blue,top,Renekton,loss,8,8,4,184,5.8,12492,23679,33,no,Downfall
+5490212605,0:31:36,26.3,ranked,blue,jungle,Volibear,loss,8,9,11,228,7.2,15712,24179,25,no,Unlucky
+5490212605,0:31:36,26.3,ranked,blue,mid,Ekko,loss,8,5,5,231,7.3,13306,21410,30,yes,Unlucky
+5490212605,0:31:36,26.3,ranked,blue,adc,Smolder,loss,3,4,3,227,7.2,11501,16814,21,no,Struggle
+5490212605,0:31:36,26.3,ranked,blue,support,Nami,loss,0,5,10,24,0.8,7859,6089,74,no,Struggle

@@ -1,0 +1,25 @@
+LoL Ranked Match Dataset – Patch 26.3
+
+Columns:
+- match_id: Unique ID for each match
+- game_duration: Length of the match (HH:MM:SS)
+- patch_version: Game patch version
+- queue_type: Ranked mode (flex, solo/duo)
+- team: Team color (blue/red)
+- role: Player role (top/jungle/mid/adc/support)
+- champion: Champion played
+- win_loss: Win or loss outcome
+- kills: Number of kills
+- deaths: Number of deaths
+- assists: Number of assists
+- cs: Creep score (minion kills)
+- cs_per_min: CS per minute
+- gold_earned: Total gold earned
+- damage: Damage dealt to champions
+- vision_score: Vision contribution
+- first_blood: Did player get first blood? (yes/no)
+- game_review: Subjective rating of performance
+
+Source: LoL Client, Op.GG, LoL API (for automated collection)
+
+Purpose: Educational and portfolio analysis; visualizations, stats, champion trends, win rates.
